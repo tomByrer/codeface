@@ -310,7 +310,7 @@ All font binaries in the Codeface collection (29.9MB ZIP archive)
 
 ### [Iosevka](fonts/iosevka)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/iosevka/license.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/iosevka/license.txt) ] [ [Home](https://be5invis.github.io/Iosevka/) ] [ [Repo](https://github.com/be5invis/Iosevka) ] v0.1.2
 
 ![Iosevka](images/iosevka-TP.png)
 ![Iosevka](images/iosevka-TPC.png)
